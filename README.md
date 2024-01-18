@@ -19,9 +19,9 @@ This project is for educational purposes only! I am not responsible for your act
 4. Run it
 5. You are ready to go!
 # Feedback
-If you have any feedback, please reach out to me on discord: UNC0V3R3D#8662
+If you have any feedback, please reach out to me on discord: rmir3i
 # Support
-For support, please open an Issue or reach out to me on discord: UNC0V3R3D#8662
+For support, please open an Issue or reach out to me on discord: rmir3i
    
 # Documentation
 Currently working on it
