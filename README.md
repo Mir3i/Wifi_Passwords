@@ -10,3 +10,14 @@ The script provides a quick and convenient solution to retrieve the password wit
 Created by [Mir3i], the script is designed to offer a straightforward method for accessing Wi-Fi credentials on a Windows system.
 
 Stay tune !
+# Before you start!
+This project is for educational purposes only! I am not responsible for your actions. This project is just for fun and security purposes.
+# How to use?
+1. Download the .rar file from the latest release
+2. Extract the folder
+3. Install the requirements.txt file
+4. Open the ChromeDecrypter.py file
+5. You are ready to go!
+
+
+
